@@ -110,5 +110,14 @@ button#equal {
     background-color: #474948;
     color: #fff7f7;
   }
+  footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 10px;
+}
+h1{
+    font-family: cursive;
+}
 
  
