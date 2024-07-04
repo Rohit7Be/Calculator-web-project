@@ -119,5 +119,9 @@ button#equal {
 h1{
     font-family: cursive;
 }
+ footer p{
+    font-size: small;
+    font-family: sans-serif;
+ }
 
  
